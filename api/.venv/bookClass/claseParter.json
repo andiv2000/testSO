@@ -1,0 +1,402 @@
+[
+    {
+        "numar": "001",
+        "status": "busy"
+    },
+    {
+        "numar": "002",
+        "status": "free"
+    },
+    {
+        "numar": "003",
+        "status": "free"
+    },
+    {
+        "numar": "004",
+        "status": "free"
+    },
+    {
+        "numar": "005",
+        "status": "free"
+    },
+    {
+        "numar": "006",
+        "status": "free"
+    },
+    {
+        "numar": "007",
+        "status": "free"
+    },
+    {
+        "numar": "008",
+        "status": "free"
+    },
+    {
+        "numar": "009",
+        "status": "free"
+    },
+    {
+        "numar": "010",
+        "status": "free"
+    },
+    {
+        "numar": "011",
+        "status": "free"
+    },
+    {
+        "numar": "012",
+        "status": "free"
+    },
+    {
+        "numar": "013",
+        "status": "free"
+    },
+    {
+        "numar": "014",
+        "status": "free"
+    },
+    {
+        "numar": "015",
+        "status": "free"
+    },
+    {
+        "numar": "016",
+        "status": "free"
+    },
+    {
+        "numar": "017",
+        "status": "free"
+    },
+    {
+        "numar": "018",
+        "status": "free"
+    },
+    {
+        "numar": "019",
+        "status": "free"
+    },
+    {
+        "numar": "020",
+        "status": "free"
+    },
+    {
+        "numar": "021",
+        "status": "free"
+    },
+    {
+        "numar": "022",
+        "status": "free"
+    },
+    {
+        "numar": "023",
+        "status": "free"
+    },
+    {
+        "numar": "024",
+        "status": "free"
+    },
+    {
+        "numar": "025",
+        "status": "free"
+    },
+    {
+        "numar": "026",
+        "status": "free"
+    },
+    {
+        "numar": "027",
+        "status": "free"
+    },
+    {
+        "numar": "028",
+        "status": "free"
+    },
+    {
+        "numar": "029",
+        "status": "free"
+    },
+    {
+        "numar": "030",
+        "status": "free"
+    },
+    {
+        "numar": "031",
+        "status": "free"
+    },
+    {
+        "numar": "032",
+        "status": "free"
+    },
+    {
+        "numar": "033",
+        "status": "free"
+    },
+    {
+        "numar": "034",
+        "status": "free"
+    },
+    {
+        "numar": "035",
+        "status": "free"
+    },
+    {
+        "numar": "036",
+        "status": "free"
+    },
+    {
+        "numar": "037",
+        "status": "free"
+    },
+    {
+        "numar": "038",
+        "status": "free"
+    },
+    {
+        "numar": "039",
+        "status": "free"
+    },
+    {
+        "numar": "040",
+        "status": "free"
+    },
+    {
+        "numar": "041",
+        "status": "free"
+    },
+    {
+        "numar": "042",
+        "status": "free"
+    },
+    {
+        "numar": "043",
+        "status": "free"
+    },
+    {
+        "numar": "044",
+        "status": "free"
+    },
+    {
+        "numar": "045",
+        "status": "free"
+    },
+    {
+        "numar": "046",
+        "status": "free"
+    },
+    {
+        "numar": "047",
+        "status": "free"
+    },
+    {
+        "numar": "048",
+        "status": "free"
+    },
+    {
+        "numar": "049",
+        "status": "free"
+    },
+    {
+        "numar": "050",
+        "status": "free"
+    },
+    {
+        "numar": "051",
+        "status": "free"
+    },
+    {
+        "numar": "052",
+        "status": "free"
+    },
+    {
+        "numar": "053",
+        "status": "free"
+    },
+    {
+        "numar": "054",
+        "status": "free"
+    },
+    {
+        "numar": "055",
+        "status": "free"
+    },
+    {
+        "numar": "056",
+        "status": "free"
+    },
+    {
+        "numar": "057",
+        "status": "free"
+    },
+    {
+        "numar": "058",
+        "status": "free"
+    },
+    {
+        "numar": "059",
+        "status": "free"
+    },
+    {
+        "numar": "060",
+        "status": "free"
+    },
+    {
+        "numar": "061",
+        "status": "free"
+    },
+    {
+        "numar": "062",
+        "status": "free"
+    },
+    {
+        "numar": "063",
+        "status": "free"
+    },
+    {
+        "numar": "064",
+        "status": "free"
+    },
+    {
+        "numar": "065",
+        "status": "free"
+    },
+    {
+        "numar": "066",
+        "status": "free"
+    },
+    {
+        "numar": "067",
+        "status": "free"
+    },
+    {
+        "numar": "068",
+        "status": "free"
+    },
+    {
+        "numar": "069",
+        "status": "free"
+    },
+    {
+        "numar": "070",
+        "status": "free"
+    },
+    {
+        "numar": "071",
+        "status": "free"
+    },
+    {
+        "numar": "072",
+        "status": "free"
+    },
+    {
+        "numar": "073",
+        "status": "free"
+    },
+    {
+        "numar": "074",
+        "status": "free"
+    },
+    {
+        "numar": "075",
+        "status": "free"
+    },
+    {
+        "numar": "076",
+        "status": "free"
+    },
+    {
+        "numar": "077",
+        "status": "free"
+    },
+    {
+        "numar": "078",
+        "status": "free"
+    },
+    {
+        "numar": "079",
+        "status": "free"
+    },
+    {
+        "numar": "080",
+        "status": "free"
+    },
+    {
+        "numar": "081",
+        "status": "free"
+    },
+    {
+        "numar": "082",
+        "status": "free"
+    },
+    {
+        "numar": "083",
+        "status": "free"
+    },
+    {
+        "numar": "084",
+        "status": "free"
+    },
+    {
+        "numar": "085",
+        "status": "free"
+    },
+    {
+        "numar": "086",
+        "status": "free"
+    },
+    {
+        "numar": "087",
+        "status": "free"
+    },
+    {
+        "numar": "088",
+        "status": "free"
+    },
+    {
+        "numar": "089",
+        "status": "free"
+    },
+    {
+        "numar": "090",
+        "status": "free"
+    },
+    {
+        "numar": "091",
+        "status": "free"
+    },
+    {
+        "numar": "092",
+        "status": "free"
+    },
+    {
+        "numar": "093",
+        "status": "free"
+    },
+    {
+        "numar": "094",
+        "status": "free"
+    },
+    {
+        "numar": "095",
+        "status": "free"
+    },
+    {
+        "numar": "096",
+        "status": "free"
+    },
+    {
+        "numar": "097",
+        "status": "free"
+    },
+    {
+        "numar": "098",
+        "status": "free"
+    },
+    {
+        "numar": "099",
+        "status": "free"
+    },
+    {
+        "numar": "100",
+        "status": "free"
+    }
+]
